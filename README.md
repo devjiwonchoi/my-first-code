@@ -21,5 +21,5 @@ It initiates a forced shutdown of a Windows machine after 30 seconds.
 > See [this](https://www.google.com/search?q=git+commit+date) for more details.
 
 ```sh
-GIT_COMMITTER_DATE="Wed Nov 14 23:32 2012 +0900" git commit --date="2012-11-14 23:32:00 +0900" -m "my first code"
+GIT_COMMITTER_DATE="Wed Nov 14 23:32 2012 +0900" git commit --date="Wed Nov 14 23:32 2012 +0900" -m "my first code"
 ```
